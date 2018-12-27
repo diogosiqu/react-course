@@ -1,5 +1,5 @@
 import React from 'react'
 
-export default () => ( 
+export default () => (
   <h1>Primeiro Super Componente!</h1>
 )
